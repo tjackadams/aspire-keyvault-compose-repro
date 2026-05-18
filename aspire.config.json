@@ -1,0 +1,6 @@
+{
+  "appHost": {
+    "path": "KeyVaultComposeRepro.csproj",
+    "language": "csharp"
+  }
+}
